@@ -1,0 +1,6 @@
+{
+  "name": "100 Kotak Tantangan Warga Negara",
+  "description": "Game show edukatif interaktif Pendidikan Pancasila Kelas IX SMP Bab 2: Tantangan Pemenuhan Hak dan Kewajiban Warga Negara dengan papan 100 kotak misteri, skor kelompok, dan panel moderator guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
